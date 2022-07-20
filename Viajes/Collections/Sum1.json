@@ -1,0 +1,503 @@
+[{
+  "_id": {
+    "$oid": "62d3de95914dca9cbc22fcc7"
+  },
+  "count_of_flights": "855",
+  "month": 1,
+  "arrive_or_depart": "D",
+  "terminal": 2
+},{
+  "_id": {
+    "$oid": "62d3de95914dca9cbc22fcc8"
+  },
+  "count_of_flights": "1194",
+  "month": 2,
+  "arrive_or_depart": "A",
+  "terminal": 3
+},{
+  "_id": {
+    "$oid": "62d3de95914dca9cbc22fcc9"
+  },
+  "count_of_flights": "1294",
+  "month": 2,
+  "arrive_or_depart": "A",
+  "terminal": 2
+},{
+  "_id": {
+    "$oid": "62d3de95914dca9cbc22fcca"
+  },
+  "count_of_flights": "14365",
+  "month": 3,
+  "arrive_or_depart": "D",
+  "terminal": 4
+},{
+  "_id": {
+    "$oid": "62d3de95914dca9cbc22fccb"
+  },
+  "count_of_flights": "1324",
+  "month": 4,
+  "arrive_or_depart": "A",
+  "terminal": 3
+},{
+  "_id": {
+    "$oid": "62d3de95914dca9cbc22fccc"
+  },
+  "count_of_flights": "1305",
+  "month": 5,
+  "arrive_or_depart": "D",
+  "terminal": 3
+},{
+  "_id": {
+    "$oid": "62d3de95914dca9cbc22fccd"
+  },
+  "count_of_flights": "1076",
+  "month": 9,
+  "arrive_or_depart": "D",
+  "terminal": 3
+},{
+  "_id": {
+    "$oid": "62d3de95914dca9cbc22fcce"
+  },
+  "count_of_flights": "12762",
+  "month": 10,
+  "arrive_or_depart": "D",
+  "terminal": 4
+},{
+  "_id": {
+    "$oid": "62d3de95914dca9cbc22fccf"
+  },
+  "count_of_flights": "8750",
+  "month": 1,
+  "arrive_or_depart": "A",
+  "terminal": 4
+},{
+  "_id": {
+    "$oid": "62d3de95914dca9cbc22fcd0"
+  },
+  "count_of_flights": "11993",
+  "month": 2,
+  "arrive_or_depart": "A",
+  "terminal": 4
+},{
+  "_id": {
+    "$oid": "62d3de95914dca9cbc22fcd1"
+  },
+  "count_of_flights": "1474",
+  "month": 4,
+  "arrive_or_depart": "D",
+  "terminal": 2
+},{
+  "_id": {
+    "$oid": "62d3de95914dca9cbc22fcd2"
+  },
+  "count_of_flights": "13475",
+  "month": 5,
+  "arrive_or_depart": "A",
+  "terminal": 4
+},{
+  "_id": {
+    "$oid": "62d3de95914dca9cbc22fcd3"
+  },
+  "count_of_flights": "1268",
+  "month": 6,
+  "arrive_or_depart": "A",
+  "terminal": 3
+},{
+  "_id": {
+    "$oid": "62d3de95914dca9cbc22fcd4"
+  },
+  "count_of_flights": "1267",
+  "month": 6,
+  "arrive_or_depart": "D",
+  "terminal": 3
+},{
+  "_id": {
+    "$oid": "62d3de95914dca9cbc22fcd5"
+  },
+  "count_of_flights": "1265",
+  "month": 8,
+  "arrive_or_depart": "D",
+  "terminal": 3
+},{
+  "_id": {
+    "$oid": "62d3de95914dca9cbc22fcd6"
+  },
+  "count_of_flights": "1312",
+  "month": 10,
+  "arrive_or_depart": "D",
+  "terminal": 2
+},{
+  "_id": {
+    "$oid": "62d3de95914dca9cbc22fcd7"
+  },
+  "count_of_flights": "8699",
+  "month": 1,
+  "arrive_or_depart": "D",
+  "terminal": 4
+},{
+  "_id": {
+    "$oid": "62d3de95914dca9cbc22fcd8"
+  },
+  "count_of_flights": "1474",
+  "month": 4,
+  "arrive_or_depart": "A",
+  "terminal": 2
+},{
+  "_id": {
+    "$oid": "62d3de95914dca9cbc22fcd9"
+  },
+  "count_of_flights": "1374",
+  "month": 5,
+  "arrive_or_depart": "A",
+  "terminal": 2
+},{
+  "_id": {
+    "$oid": "62d3de95914dca9cbc22fcda"
+  },
+  "count_of_flights": "14094",
+  "month": 7,
+  "arrive_or_depart": "A",
+  "terminal": 4
+},{
+  "_id": {
+    "$oid": "62d3de95914dca9cbc22fcdb"
+  },
+  "count_of_flights": "1270",
+  "month": 7,
+  "arrive_or_depart": "A",
+  "terminal": 3
+},{
+  "_id": {
+    "$oid": "62d3de95914dca9cbc22fcdc"
+  },
+  "count_of_flights": "13374",
+  "month": 8,
+  "arrive_or_depart": "A",
+  "terminal": 4
+},{
+  "_id": {
+    "$oid": "62d3de95914dca9cbc22fcdd"
+  },
+  "count_of_flights": "11771",
+  "month": 9,
+  "arrive_or_depart": "D",
+  "terminal": 4
+},{
+  "_id": {
+    "$oid": "62d3de95914dca9cbc22fcde"
+  },
+  "count_of_flights": "1194",
+  "month": 2,
+  "arrive_or_depart": "D",
+  "terminal": 3
+},{
+  "_id": {
+    "$oid": "62d3de95914dca9cbc22fcdf"
+  },
+  "count_of_flights": "1445",
+  "month": 3,
+  "arrive_or_depart": "D",
+  "terminal": 3
+},{
+  "_id": {
+    "$oid": "62d3de95914dca9cbc22fce0"
+  },
+  "count_of_flights": "1574",
+  "month": 3,
+  "arrive_or_depart": "D",
+  "terminal": 2
+},{
+  "_id": {
+    "$oid": "62d3de95914dca9cbc22fce1"
+  },
+  "count_of_flights": "13423",
+  "month": 4,
+  "arrive_or_depart": "A",
+  "terminal": 4
+},{
+  "_id": {
+    "$oid": "62d3de95914dca9cbc22fce2"
+  },
+  "count_of_flights": "1332",
+  "month": 4,
+  "arrive_or_depart": "D",
+  "terminal": 3
+},{
+  "_id": {
+    "$oid": "62d3de95914dca9cbc22fce3"
+  },
+  "count_of_flights": "13310",
+  "month": 6,
+  "arrive_or_depart": "D",
+  "terminal": 4
+},{
+  "_id": {
+    "$oid": "62d3de95914dca9cbc22fce4"
+  },
+  "count_of_flights": "1173",
+  "month": 6,
+  "arrive_or_depart": "A",
+  "terminal": 2
+},{
+  "_id": {
+    "$oid": "62d3de95914dca9cbc22fce5"
+  },
+  "count_of_flights": "798",
+  "month": 1,
+  "arrive_or_depart": "A",
+  "terminal": 3
+},{
+  "_id": {
+    "$oid": "62d3de95914dca9cbc22fce6"
+  },
+  "count_of_flights": "793",
+  "month": 1,
+  "arrive_or_depart": "D",
+  "terminal": 3
+},{
+  "_id": {
+    "$oid": "62d3de95914dca9cbc22fce7"
+  },
+  "count_of_flights": "859",
+  "month": 1,
+  "arrive_or_depart": "A",
+  "terminal": 2
+},{
+  "_id": {
+    "$oid": "62d3de95914dca9cbc22fce8"
+  },
+  "count_of_flights": "1371",
+  "month": 5,
+  "arrive_or_depart": "D",
+  "terminal": 2
+},{
+  "_id": {
+    "$oid": "62d3de95914dca9cbc22fce9"
+  },
+  "count_of_flights": "11778",
+  "month": 9,
+  "arrive_or_depart": "A",
+  "terminal": 4
+},{
+  "_id": {
+    "$oid": "62d3de95914dca9cbc22fcea"
+  },
+  "count_of_flights": "1096",
+  "month": 9,
+  "arrive_or_depart": "A",
+  "terminal": 3
+},{
+  "_id": {
+    "$oid": "62d3de95914dca9cbc22fceb"
+  },
+  "count_of_flights": "1169",
+  "month": 9,
+  "arrive_or_depart": "D",
+  "terminal": 2
+},{
+  "_id": {
+    "$oid": "62d3de95914dca9cbc22fcec"
+  },
+  "count_of_flights": "4",
+  "month": 1,
+  "arrive_or_depart": "D"
+},{
+  "_id": {
+    "$oid": "62d3de95914dca9cbc22fced"
+  },
+  "count_of_flights": "1290",
+  "month": 2,
+  "arrive_or_depart": "D",
+  "terminal": 2
+},{
+  "_id": {
+    "$oid": "62d3de95914dca9cbc22fcee"
+  },
+  "count_of_flights": "1443",
+  "month": 3,
+  "arrive_or_depart": "A",
+  "terminal": 3
+},{
+  "_id": {
+    "$oid": "62d3de95914dca9cbc22fcef"
+  },
+  "count_of_flights": "1319",
+  "month": 8,
+  "arrive_or_depart": "A",
+  "terminal": 2
+},{
+  "_id": {
+    "$oid": "62d3de95914dca9cbc22fcf0"
+  },
+  "count_of_flights": "1240",
+  "month": 8,
+  "arrive_or_depart": "A",
+  "terminal": 3
+},{
+  "_id": {
+    "$oid": "62d3de95914dca9cbc22fcf1"
+  },
+  "count_of_flights": "1392",
+  "month": 10,
+  "arrive_or_depart": "A",
+  "terminal": 2
+},{
+  "_id": {
+    "$oid": "62d3de95914dca9cbc22fcf2"
+  },
+  "count_of_flights": "11985",
+  "month": 2,
+  "arrive_or_depart": "D",
+  "terminal": 4
+},{
+  "_id": {
+    "$oid": "62d3de95914dca9cbc22fcf3"
+  },
+  "count_of_flights": "14376",
+  "month": 3,
+  "arrive_or_depart": "A",
+  "terminal": 4
+},{
+  "_id": {
+    "$oid": "62d3de95914dca9cbc22fcf4"
+  },
+  "count_of_flights": "1573",
+  "month": 3,
+  "arrive_or_depart": "A",
+  "terminal": 2
+},{
+  "_id": {
+    "$oid": "62d3de95914dca9cbc22fcf5"
+  },
+  "count_of_flights": "13418",
+  "month": 4,
+  "arrive_or_depart": "D",
+  "terminal": 4
+},{
+  "_id": {
+    "$oid": "62d3de95914dca9cbc22fcf6"
+  },
+  "count_of_flights": "1304",
+  "month": 5,
+  "arrive_or_depart": "A",
+  "terminal": 3
+},{
+  "_id": {
+    "$oid": "62d3de95914dca9cbc22fcf7"
+  },
+  "count_of_flights": "1180",
+  "month": 6,
+  "arrive_or_depart": "D",
+  "terminal": 2
+},{
+  "_id": {
+    "$oid": "62d3de95914dca9cbc22fcf8"
+  },
+  "count_of_flights": "1154",
+  "month": 7,
+  "arrive_or_depart": "A",
+  "terminal": 2
+},{
+  "_id": {
+    "$oid": "62d3de95914dca9cbc22fcf9"
+  },
+  "count_of_flights": "1149",
+  "month": 7,
+  "arrive_or_depart": "D",
+  "terminal": 2
+},{
+  "_id": {
+    "$oid": "62d3de95914dca9cbc22fcfa"
+  },
+  "count_of_flights": "7",
+  "month": 7,
+  "arrive_or_depart": "A",
+  "terminal": 1
+},{
+  "_id": {
+    "$oid": "62d3de95914dca9cbc22fcfb"
+  },
+  "count_of_flights": "13330",
+  "month": 8,
+  "arrive_or_depart": "D",
+  "terminal": 4
+},{
+  "_id": {
+    "$oid": "62d3de95914dca9cbc22fcfc"
+  },
+  "count_of_flights": "1182",
+  "month": 10,
+  "arrive_or_depart": "D",
+  "terminal": 3
+},{
+  "_id": {
+    "$oid": "62d3de95914dca9cbc22fcfd"
+  },
+  "count_of_flights": "1174",
+  "month": 10,
+  "arrive_or_depart": "A",
+  "terminal": 3
+},{
+  "_id": {
+    "$oid": "62d3de95914dca9cbc22fcfe"
+  },
+  "count_of_flights": "3",
+  "month": 1,
+  "arrive_or_depart": "A"
+},{
+  "_id": {
+    "$oid": "62d3de95914dca9cbc22fcff"
+  },
+  "count_of_flights": "13454",
+  "month": 5,
+  "arrive_or_depart": "D",
+  "terminal": 4
+},{
+  "_id": {
+    "$oid": "62d3de95914dca9cbc22fd00"
+  },
+  "count_of_flights": "13332",
+  "month": 6,
+  "arrive_or_depart": "A",
+  "terminal": 4
+},{
+  "_id": {
+    "$oid": "62d3de95914dca9cbc22fd01"
+  },
+  "count_of_flights": "14082",
+  "month": 7,
+  "arrive_or_depart": "D",
+  "terminal": 4
+},{
+  "_id": {
+    "$oid": "62d3de95914dca9cbc22fd02"
+  },
+  "count_of_flights": "1271",
+  "month": 7,
+  "arrive_or_depart": "D",
+  "terminal": 3
+},{
+  "_id": {
+    "$oid": "62d3de95914dca9cbc22fd03"
+  },
+  "count_of_flights": "1285",
+  "month": 8,
+  "arrive_or_depart": "D",
+  "terminal": 2
+},{
+  "_id": {
+    "$oid": "62d3de95914dca9cbc22fd04"
+  },
+  "count_of_flights": "1172",
+  "month": 9,
+  "arrive_or_depart": "A",
+  "terminal": 2
+},{
+  "_id": {
+    "$oid": "62d3de95914dca9cbc22fd05"
+  },
+  "count_of_flights": "12834",
+  "month": 10,
+  "arrive_or_depart": "A",
+  "terminal": 4
+}]
