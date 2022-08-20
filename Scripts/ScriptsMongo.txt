@@ -37,5 +37,14 @@ db.Octubre.find( {
 } )
 
 11)
+db.Noviembre.updateOne(
+   { arrive_or_depart: "A" },
+   {
+     $set: { terminal: 3 }
+   }
+)
+
 
 12)
+db.Diciembre.deleteOne( { terminal: 2 } )
+
