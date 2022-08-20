@@ -1,1 +1,41 @@
-Hacer Scripts Mongo TOTAL: 20
+Hacer Scripts Mongo TOTAL: 12
+
+1)
+db.Enero.find({airline:/^A/})
+
+2)
+db.Febrero.find( { terminal:{ $in: [ 2, 3 ] } })
+
+3)
+db.Marzo.find({ $or: [ { gate: /^A/ }, { airline: /^S/ } ] })
+
+4)
+db.Abril.find( { $and: [ { arrive_or_depart: "D"} , { airline:/^A/} ] } )
+
+5)
+db.Mayo.find( {  flight_number: { $lt: 1000 } } )
+
+6)
+db.Junio.find( {  flight_number: { $gt: 1000 } } )
+
+7)
+db.Julio.find( { flight_number: { $gte : 500 , $lte : 1000} })
+
+8)
+db.Agosto.find( { $or: [ { arrive_or_depart: "D" }, { gate:/^D/ } ] } )
+
+9)
+db.Septiembre.find( {
+     arrive_or_depart: "D",
+     $or: [ { flight_number: { $gt: 2000 } }, { airline: /^S/ } ]
+} )
+
+10)
+db.Octubre.find( {
+     gate:/^D/,
+     $or: [ { qty: { $lt: 1000 } }, { terminal: { $in: [ 2, 3 ] } } ]
+} )
+
+11)
+
+12)
