@@ -26,4 +26,4 @@
 
   
 <h3 align="center">Url de la Página de Wix</h3>
-https://crjohert.wixsite.com/servicio-de-vuelos/play
+<p align="center">https://crjohert.wixsite.com/servicio-de-vuelos/play </p>
